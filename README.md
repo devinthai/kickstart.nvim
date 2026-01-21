@@ -12,4 +12,4 @@ This repo is meant to be stored inside `~/.config/nvim/` to configure neovim.
 
 ## Macros
 
-* <space e> run `lua vim.diagnostic.open_float()` to open full error messages as floating text 
+* `<space e>`: run `lua vim.diagnostic.open_float()` to open full error messages as floating text 
